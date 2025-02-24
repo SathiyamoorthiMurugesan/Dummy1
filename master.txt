@@ -1,1 +1,2 @@
 I am the master file
+I have added the some lines to test git pull and git pull <branch>
